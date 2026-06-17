@@ -1,0 +1,13 @@
+{
+  "accentColor": "#37d82c",
+  "theme": "moonstone",
+  "baseFontSize": 14,
+  "cssTheme": "Cupertino",
+  "interfaceFontFamily": "Constantia",
+  "textFontFamily": "Constantia",
+  "monospaceFontFamily": "Constantia",
+  "translucency": true,
+  "showRibbon": true,
+  "baseFontSizeAction": true,
+  "nativeMenus": false
+}

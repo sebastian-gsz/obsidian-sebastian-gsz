@@ -1,0 +1,271 @@
+{
+  "main": {
+    "id": "c0289fa95bdeb1f0",
+    "type": "split",
+    "children": [
+      {
+        "id": "41336e248c763599",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "109a6b164f377c1b",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "unternehmer/cloud-computing/cloud-computing.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "cloud-computing"
+            }
+          },
+          {
+            "id": "445954cc4b3955cd",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "unternehmer/assets/laboratorium/aws-working-with-aurora-databases/working-with-aurora-databases.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "working-with-aurora-databases"
+            }
+          },
+          {
+            "id": "ccb9901b537c550f",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "unternehmer/assets/laboratorium/az-wordpress-in-aci-for-vpc/wordpress-container-for-virtual-network.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "wordpress-container-for-virtual-network"
+            }
+          },
+          {
+            "id": "457a89f873304fb4",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Vista gráfica"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "70d1603742d2b5e9",
+    "type": "split",
+    "children": [
+      {
+        "id": "a5fdf70a7f5479f8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b44d731bfd8cd291",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de archivos"
+            }
+          },
+          {
+            "id": "1877683ba9ce8423",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Buscar"
+            }
+          },
+          {
+            "id": "2403b4992463bf7d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 463.51240158081055,
+    "collapsed": true
+  },
+  "right": {
+    "id": "6f173abd8c235cae",
+    "type": "split",
+    "children": [
+      {
+        "id": "3ef5cd1f40dc577e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8739f91c65c0cafd",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "unternehmer/cloud-computing/microsoft/Microsoft.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Enlaces entrantes de Microsoft"
+            }
+          },
+          {
+            "id": "fb2242f2f6dd0c0d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "unternehmer/cloud-computing/microsoft/Microsoft.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Enlaces salientes de Microsoft"
+            }
+          },
+          {
+            "id": "d83e1fc836d7730e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
+            }
+          },
+          {
+            "id": "a41e6e09824ac649",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "unternehmer/cloud-computing/microsoft/Microsoft.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Esquema de Microsoft"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "audio-recorder:Iniciar/Detener la grabación": false,
+      "bases:Crear nueva base": false
+    }
+  },
+  "active": "457a89f873304fb4",
+  "lastOpenFiles": [
+    "unternehmer/assets/laboratorium/az-wordpress-in-aci-for-vpc/wordpress-container-for-virtual-network.md",
+    "unternehmer/assets/laboratorium/aws-working-with-aurora-databases/working-with-aurora-databases.md",
+    "adjuntos/variables.tf",
+    "adjuntos/terraform.tfvars",
+    "adjuntos/storage.tf",
+    "adjuntos/outputs.tf",
+    "adjuntos/network.tf",
+    "adjuntos/main.tf",
+    "adjuntos/container-instances.tf",
+    "adjuntos/application-gateway.tf",
+    "adjuntos/storage.bicep",
+    "adjuntos/network.bicep",
+    "unternehmer/unternehmer/איש עסקים.md",
+    "adjuntos/write-intensive.md",
+    "adjuntos/wide-column-store.md",
+    "adjuntos/watering-hole-attack.md",
+    "adjuntos/unsupervised-learning.md",
+    "adjuntos/time-series-db.md",
+    "adjuntos/throughput.md",
+    "adjuntos/threat-agent.md",
+    "adjuntos/teorema-cap.md",
+    "adjuntos/supervised-learning.md",
+    "adjuntos/strong-consistency.md",
+    "adjuntos/statement-of-work.md",
+    "adjuntos/spear-phishing-ejecutivo.md",
+    "adjuntos/source-network-address-translation.md",
+    "adjuntos/sniffer.md",
+    "adjuntos/semi-structured.md",
+    "adjuntos/self-hosted.md",
+    "adjuntos/security-controls.md",
+    "adjuntos/security-audit.md",
+    "adjuntos/security-architecture.md",
+    "adjuntos/remote-dictionary-server.md",
+    "adjuntos/relational-database-management-system.md",
+    "adjuntos/reinforcement-learning.md",
+    "adjuntos/read-replicas.md",
+    "adjuntos/caso-práctico-aplicación-de-librería-moderna.svg",
+    "adjuntos/caso-práctico-recomendaciones-sociales-2.png",
+    "adjuntos/caso-práctico-recomendaciones-sociales-1.png",
+    "unternehmer/assets/multimedia/caso-práctico-recomendaciones-sociales-1.png",
+    "unternehmer/assets/multimedia/caso-práctico-recomendaciones-sociales-2.png",
+    "adjuntos/caso-práctico-lista-superventas-2.png",
+    "adjuntos/caso-práctico-lista-superventas-1.png",
+    "unternehmer/assets/multimedia/caso-práctico-lista-superventas-1.png",
+    "unternehmer/assets/multimedia/caso-práctico-lista-superventas-2.png",
+    "unternehmer/assets/multimedia/caso-práctico-catálogo-productos-2.png"
+  ]
+}
