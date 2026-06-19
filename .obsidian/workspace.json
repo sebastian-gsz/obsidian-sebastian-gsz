@@ -1,0 +1,226 @@
+{
+  "main": {
+    "id": "c0289fa95bdeb1f0",
+    "type": "split",
+    "children": [
+      {
+        "id": "41336e248c763599",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "109a6b164f377c1b",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "unternehmer/cloud-computing/cloud-computing.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "cloud-computing"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "70d1603742d2b5e9",
+    "type": "split",
+    "children": [
+      {
+        "id": "a5fdf70a7f5479f8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b44d731bfd8cd291",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de archivos"
+            }
+          },
+          {
+            "id": "1877683ba9ce8423",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Buscar"
+            }
+          },
+          {
+            "id": "2403b4992463bf7d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 304.50799560546875,
+    "collapsed": true
+  },
+  "right": {
+    "id": "6f173abd8c235cae",
+    "type": "split",
+    "children": [
+      {
+        "id": "3ef5cd1f40dc577e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8739f91c65c0cafd",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "unternehmer/cloud-computing/microsoft/Microsoft.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Enlaces entrantes de Microsoft"
+            }
+          },
+          {
+            "id": "fb2242f2f6dd0c0d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "unternehmer/cloud-computing/microsoft/Microsoft.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Enlaces salientes de Microsoft"
+            }
+          },
+          {
+            "id": "d83e1fc836d7730e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
+            }
+          },
+          {
+            "id": "a41e6e09824ac649",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "unternehmer/cloud-computing/microsoft/Microsoft.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Esquema de Microsoft"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "audio-recorder:Iniciar/Detener la grabación": false,
+      "bases:Crear nueva base": false
+    }
+  },
+  "active": "109a6b164f377c1b",
+  "lastOpenFiles": [
+    "trash/cosas/az-designing-networking-solutions/Instructions/media/web-apps-both-stopped.png",
+    "trash/cosas/az-designing-networking-solutions/Instructions/media/web-app-default-page.png",
+    "trash/cosas/az-designing-networking-solutions/Instructions/media/vnet-peering.png",
+    "trash/cosas/az-designing-networking-solutions/Instructions/media/virtual-network-gateway-search.png",
+    "trash/cosas/az-designing-networking-solutions/Instructions/media/verify-subnets-annotated.png",
+    "trash/cosas/az-designing-networking-solutions/Instructions/media/tm-webapp-test-1a.png",
+    "trash/cosas/az-designing-networking-solutions/Instructions/media/test-netconnection-fail.png",
+    "trash/cosas/az-designing-networking-solutions/Instructions/media/test-connection-succeeded.png",
+    "trash/cosas/az-designing-networking-solutions/Instructions/media/stop-web-app.png",
+    "trash/cosas/az-designing-networking-solutions/Instructions/media/search-for-virtual-wan.png",
+    "trash/cosas/az-designing-networking-solutions/Instructions/media/search-application-gateway.png",
+    "trash/cosas/az-designing-networking-solutions/Instructions/media",
+    "trash/cosas/az-designing-networking-solutions/Instructions/Exercises/M08-Unit 3 Monitor a load balancer resource using Azure Monitor.md",
+    "trash/cosas/az-designing-networking-solutions/Instructions/Exercises/M07-Unit 6 Create an Azure private endpoint using Azure PowerShell.md",
+    "trash/cosas/az-designing-networking-solutions/Instructions/Exercises/M07-Unit 5 Restrict network access to PaaS resources with virtual network service endpoints.md",
+    "trash/cosas/az-designing-networking-solutions/Instructions/Exercises/M06-Unit 9 Secure your virtual hub using Azure Firewall Manager.md",
+    "trash/cosas/az-designing-networking-solutions/Instructions/Exercises/M06-Unit 7 Deploy and configure Azure Firewall using the Azure portal.md",
+    "trash/cosas/az-designing-networking-solutions/Instructions/Exercises/M06-Unit 4 Configure DDoS Protection on a virtual network using the Azure portal.md",
+    "trash/cosas/az-designing-networking-solutions/Instructions/Exercises/M05-Unit 6 Create a front door for a highly available web application using the Azure portal.md",
+    "trash/cosas/az-designing-networking-solutions/Instructions/Exercises/M05-Unit 4 Deploy Azure application gateway.md",
+    "trash/cosas/az-designing-networking-solutions/Instructions/Exercises/M04-Unit 6 Create a Traffic Manager profile using the Azure portal.md",
+    "trash/cosas/az-designing-networking-solutions/Instructions/Exercises/M04-Unit 4 Create and configure an Azure load balancer.md",
+    "trash/cosas/az-designing-networking-solutions/Instructions/Exercises/M03-Unit 5 Provision an ExpressRoute circuit.md",
+    "trash/cosas/az-designing-networking-solutions/Instructions/Exercises/M03-Unit 4 Configure an ExpressRoute Gateway.md",
+    "trash/cosas/az-designing-networking-solutions/Instructions/Exercises/M02-Unit 7 Create a Virtual WAN by using Azure Portal.md",
+    "trash/cosas/az-designing-networking-solutions/Instructions/Exercises/M02-Unit 3 Create and configure a virtual network gateway.md",
+    "trash/cosas/az-designing-networking-solutions/Instructions/Exercises/M01-Unit 8 Connect two Azure Virtual Networks using global virtual network peering.md",
+    "trash/cosas/az-designing-networking-solutions/Instructions/Exercises/M01-Unit 6 Configure DNS settings in Azure.md",
+    "trash/cosas/az-designing-networking-solutions/Instructions/Exercises/M01-Unit 4 Design and implement a Virtual Network in Azure.md",
+    "trash/cosas/az-designing-networking-solutions/Instructions/Exercises",
+    "trash/cosas/az-designing-networking-solutions/Instructions/Demos/VPN Gateways.md",
+    "trash/cosas/az-designing-networking-solutions/Instructions/Demos/VNet Peering.md",
+    "trash/cosas/az-designing-networking-solutions/Instructions/Demos/Virtual Networks.md",
+    "trash/cosas/az-designing-networking-solutions/Instructions/Demos/Traffic Manager.md",
+    "trash/cosas/az-designing-networking-solutions/Instructions/Demos/Service Endpoints.md",
+    "trash/cosas/az-designing-networking-solutions/Instructions/Demos/Route to shared services.md",
+    "trash/cosas/az-designing-networking-solutions/Instructions/Demos/Private Link Service.md",
+    "trash/cosas/az-designing-networking-solutions/Instructions/Demos/Network Security Groups.md",
+    "trash/cosas/az-designing-networking-solutions/Instructions/Demos",
+    "trash/cosas/az-designing-networking-solutions/Instructions",
+    "trash/cosas/az-designing-networking-solutions/assets/M08/install-iis.ps1",
+    "trash/cosas/az-designing-networking-solutions/assets/M08/deployvms.ps1",
+    "trash/cosas/az-designing-networking-solutions/assets/M08/deployvms.ps",
+    "trash/cosas/az-designing-networking-solutions/assets/M08/azuredeploy.parameters.vm3.json",
+    "trash/cosas/az-designing-networking-solutions/assets/M08/azuredeploy.parameters.vm2.json",
+    "trash/cosas/az-designing-networking-solutions/assets/M08/azuredeploy.parameters.vm1.json"
+  ]
+}
