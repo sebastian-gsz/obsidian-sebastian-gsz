@@ -1,0 +1,219 @@
+{
+  "main": {
+    "id": "c0289fa95bdeb1f0",
+    "type": "split",
+    "children": [
+      {
+        "id": "f5124874d52bd355",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "53ff6913d909520e",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nueva pestaña"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "70d1603742d2b5e9",
+    "type": "split",
+    "children": [
+      {
+        "id": "a5fdf70a7f5479f8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b44d731bfd8cd291",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de archivos"
+            }
+          },
+          {
+            "id": "1877683ba9ce8423",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Buscar"
+            }
+          },
+          {
+            "id": "2403b4992463bf7d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 477.50799560546875
+  },
+  "right": {
+    "id": "6f173abd8c235cae",
+    "type": "split",
+    "children": [
+      {
+        "id": "3ef5cd1f40dc577e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8739f91c65c0cafd",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Enlaces entrantes"
+            }
+          },
+          {
+            "id": "fb2242f2f6dd0c0d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Enlaces salientes"
+            }
+          },
+          {
+            "id": "d83e1fc836d7730e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
+            }
+          },
+          {
+            "id": "a41e6e09824ac649",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Esquema"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 581.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "audio-recorder:Iniciar/Detener la grabación": false,
+      "bases:Crear nueva base": false,
+      "zk-prefixer:Crear nueva nota única": false,
+      "workspaces:Gestionar disposiciones de espacio de trabajo": false,
+      "markdown-importer:Abrir el importador de Markdown": false,
+      "obsidian-kanban:Create new board": false
+    }
+  },
+  "active": "53ff6913d909520e",
+  "lastOpenFiles": [
+    "unternehmer/cloud-computing/cloud-computing.md",
+    "unternehmer/cloud-computing/amazon-web-service/data-base/amazon-web-service-relational-database-service.md",
+    "unternehmer/cloud-computing/amazon-web-service/data-base/amazon-web-service-relational-database-service-aurora.md",
+    "unternehmer/unternehmer/ריאיונות/entrevista-lori.md",
+    "unternehmer/kanban/kanban-unternehmer.md",
+    "unternehmer/kanban/kanban-cloud-computing.md",
+    "unternehmer/kanban/Sin título.md",
+    "unternehmer/unternehmer/איש עסקים.md",
+    "unternehmer/definitions/amazon-web-service-step-functions.md",
+    "unternehmer/definitions/amazon-web-service-cloudwatch.md",
+    "unternehmer/definitions/six-rs.md",
+    "unternehmer/definitions/data-lake.md",
+    "definitions.md",
+    "unternehmer/definitions/zero-day.md",
+    "unternehmer/definitions/write-intensive.md",
+    "unternehmer/definitions/wide-column-store.md",
+    "unternehmer/definitions/watering-hole-attack.md",
+    "unternehmer/definitions/unsupervised-learning.md",
+    "unternehmer/assets/multimedia/machine-learning-task.jpg",
+    "unternehmer/assets/multimedia/machine-learning-task.jpg.crdownload",
+    "unternehmer/definitions/time-series-db.md",
+    "unternehmer/definitions/throughput.md",
+    "unternehmer/definitions/threat-agent.md",
+    "unternehmer/definitions/teorema-cap.md",
+    "unternehmer/definitions/switch.md",
+    "unternehmer/definitions/supervised-learning.md",
+    "unternehmer/definitions/strong-consistency.md",
+    "unternehmer/definitions/statement-of-work.md",
+    "unternehmer/assets/multimedia/caso-práctico-aplicación-de-librería-moderna.svg",
+    "unternehmer/assets/multimedia/Aplicación de librería moderna.svg",
+    "unternehmer/cloud-computing/amazon-web-service/data-base",
+    "unternehmer/cloud-computing/alphabet/google-cloud-platform/analytics",
+    "unternehmer/kanban",
+    "unternehmer/assets/laboratorium/gcp-introduction-cloud-storage-and-sql/terraform/essets/check_resources.py",
+    "unternehmer/assets/laboratorium/gcp-introduction-cloud-storage-and-sql/terraform/essets/my-excellent-blog.png",
+    "unternehmer/assets/laboratorium/gcp-introduction-cloud-storage-and-sql/terraform/essets",
+    "unternehmer/assets/laboratorium/gcp-introduction-cloud-storage-and-sql/terraform/esset/check_resources.py",
+    "adjuntos/variables 1.tf",
+    "adjuntos/outputs 1.tf",
+    "adjuntos/main 1.tf",
+    "adjuntos/my-excellent-blog.png",
+    "unternehmer/assets/laboratorium/gcp-introduction-cloud-storage-and-sql/terraform/esset/my-excellent-blog.png",
+    "adjuntos/infra-for-default.webp",
+    "unternehmer/assets/multimedia/infra-for-default.webp",
+    "unternehmer/assets/multimedia/distribución-bimodal.jpg",
+    "adjuntos/Pasted image 20260622184849.jpg"
+  ]
+}
