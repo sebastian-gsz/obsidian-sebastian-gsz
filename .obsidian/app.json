@@ -1,0 +1,28 @@
+{
+  "promptDelete": false,
+  "attachmentFolderPath": "Adjuntos",
+  "userIgnoreFilters": [
+    "orquestrate-seed/"
+  ],
+  "pdfExportSettings": {
+    "includeName": false,
+    "pageSize": "A5",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  },
+  "alwaysUpdateLinks": true,
+  "tabSize": 5,
+  "showUnsupportedFiles": false,
+  "readableLineLength": false,
+  "showLineNumber": false,
+  "vimMode": false,
+  "showIndentGuide": true,
+  "rightToLeft": false,
+  "trashOption": "local",
+  "spellcheck": true,
+  "spellcheckLanguages": [
+    "en-US",
+    "es"
+  ]
+}
