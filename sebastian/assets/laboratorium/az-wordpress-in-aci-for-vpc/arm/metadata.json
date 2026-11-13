@@ -1,0 +1,12 @@
+{
+  "$schema": "https://aka.ms/azure-quickstart-templates-metadata-schema#",
+  "type": "QuickStart",
+  "itemDisplayName": "Crear un sitio de WordPress en una red virtual",
+  "description": "Esta plantilla crea un sitio de WordPress en una instancia de contenedor dentro de una red virtual y genera como salida un FQDN de sitio público para acceder al sitio de WordPress.",
+  "summary": "Crear un sitio de WordPress en Container Instances dentro de una red virtual.",
+  "githubUsername": "tilnl",
+  "environments": [
+    "AzureCloud"
+  ],
+  "dateUpdated": "2021-10-13"
+}

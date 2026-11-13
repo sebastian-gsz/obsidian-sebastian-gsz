@@ -1,0 +1,36 @@
+[core]
+	editor = code --wait
+	autocrlf = true
+	excludesfile = ~/.gitignore_global
+	safecrlf = false
+[init]
+    defaultBranch = main
+[push]
+    default = simple
+[alias]
+	br = branch
+    cm = commit
+	co = checkout
+	st = status
+	lg = log --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset' --abbrev-commit
+[pull]
+	rebase = true
+[color]
+    ui = true
+[merge]
+    conflictStyle = diff3
+[branch]
+    sort = -committerdate
+[credential]
+	helper = manager
+[safe]
+	directory = F:/obsidian
+
+# Incluye configuraciones para directorios de proyectos específicos / Include settings for specific project directories
+[includeIf "gitdir/i:F:/projects-knowledge-only/github-directorio-gsz/"]
+    path = .gitconfig-github-sebastian-gsz
+[includeIf "gitdir/i:F:/projects-knowledge-only/github-directorio-uhm/"]
+    path = .gitconfig-github-projekte-uhm
+[user]
+	email = usuario-no-te-importa-perro@gmail.com
+	name = J. Sebastian Gómez S.
